@@ -23,11 +23,11 @@ refs.field.forEach(e => {
 });
 
 refs.value.forEach(e => {
-  e.style.fontSize = '20px';
+  e.style.fontSize = '30px';
 });
 
 refs.label.forEach(e => {
-  e.style.fontSize = '20px';
+  e.style.fontSize = '15px';
 });
 
 const options = {
